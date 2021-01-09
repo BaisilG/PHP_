@@ -13,7 +13,7 @@
     Object
     Resource
 */
-
+// how we declare the variable in php is put $ sign --- 
 // 1. Declare variables
 $name = "Zura";
 $age = 28;
