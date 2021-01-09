@@ -45,4 +45,6 @@ any number of the php syntax can add
 
 
 
-// notes: Notes : apache process the php and convert the php tag in to the html while the showing into the browser so that when you see the view the code in the browser we cannot see the php tags 
+<!--notes: Notes : apache process the php and convert the php 
+tag in to the html while the showing into the browser so that 
+when you see the view the code in the browser we cannot see the php tags -->
