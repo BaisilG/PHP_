@@ -8,7 +8,32 @@
   <title>Document</title>
 </head>
 <body>
-Hello World
+Hello World 
+
+<?php
+
+?>
+
 <!--Echo HTML tags-->
+
+<!--
+
+we can add php syntax here 
+-->
+<!--
+
+lessthan symbol and question mark and 'php' and question mark and greater than symbol
+
+we can have many opening and closing tag as much we want....
+
+
+-->
+
+
+<!--
+
+any number of the php syntax can add here 
+-->
+
 </body>
 </html>
