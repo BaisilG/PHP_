@@ -31,8 +31,7 @@ we can have many opening and closing tag as much we want....
 
 
 <!--
-
-any number of the php syntax can add here 
+any number of the php syntax can add  
 -->
 
 </body>
