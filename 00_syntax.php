@@ -12,7 +12,7 @@ Hello World
 
 <?php
 
-echo "<b> <p> hello World </b> </p>" ;
+echo "<b><p> hello World </b> </p>" ; //bold and new line 
 
 ?>
 
