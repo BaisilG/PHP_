@@ -16,5 +16,6 @@ $salary = null;
 echo $name . '<br>';
 echo $age . '<br>';
 echo $isMale . '<br>';
+echo $_ENV
 echo $height . '<br>';
 echo $salary . '<br>';
